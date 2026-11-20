@@ -28,10 +28,10 @@ I'm **Arka Bisai**, a B.Tech Computer Science & Engineering student specializing
 
 | Project | Description | Repository |
 |---|---|---|
-| **VitalLink** | Rural healthcare monitoring and management platform with offline-first workflows. | Under development(#) |
-| **LabelLens** | AI-assisted packaged-commodity label analysis with deterministic Legal Metrology compliance checks. | https://github.com/arkabisai/LebelLens(#) |
-| **XPUS** | Campus super app for students, faculty and administrators. | Under development(#) |
-| **NEXUS** | A customizable Chrome new-tab experience with a premium F1-inspired design. | Under development(#) |
+| **VitalLink** | Rural healthcare monitoring and management platform with offline-first workflows. | Under development |
+| **LabelLens** | AI-assisted packaged-commodity label analysis with deterministic Legal Metrology compliance checks. | https://github.com/arkabisai/LebelLens |
+| **XPUS** | Campus super app for students, faculty and administrators. | Under development |
+| **NEXUS** | A customizable Chrome new-tab experience with a premium F1-inspired design. | Under development |
 
 ## Technology Stack
 
