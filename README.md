@@ -45,8 +45,9 @@ I'm **Arka Bisai**, a B.Tech Computer Science & Engineering student specializing
 
 ---
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/arka-bisai/">
     <img src="https://img.shields.io/badge/Connect%20With%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
   </a>
 </p>
