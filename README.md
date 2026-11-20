@@ -39,9 +39,9 @@ I'm **Arka Bisai**, a B.Tech Computer Science & Engineering student specializing
 
 **Frontend & Mobile:** React Native · Expo · HTML · CSS
 
-**Backend & Databases:** FastAPI · Node.js · Express · PostgreSQL · MySQL · SQLite
+**Backend & Databases:** FastAPI · Node.js · Express · PostgreSQL · MySQL 
 
-**Tools & Cloud:** Git · GitHub · Firebase · AWS · VS Code
+**Tools & Cloud:** GitHub · AWS · VS Code
 
 ---
 
