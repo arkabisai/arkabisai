@@ -1,197 +1,56 @@
-# 👋 Hey, I'm Arka Bisai
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Developer;Computer+Science+%26+Engineering+Student;Building+Intelligent+Real-World+Solutions;Turning+Ideas+Into+Technology" alt="Typing SVG" />
-
-### Building Intelligence. Engineering the Future.
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-0F172A?style=for-the-badge&logo=googlecolab&logoColor=FACC15" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm **Arka Bisai**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning** at Centurion University of Technology and Management.
-
-I'm passionate about building intelligent software, developing practical applications, and exploring how emerging technologies can solve real-world problems.
-
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 💻 Developing software applications and intelligent systems.
-- 📱 Exploring mobile application development.
-- ☁️ Learning cloud computing and scalable architectures.
-- 🧠 Strengthening problem-solving and data structures skills.
-- 🚀 Building projects that combine innovation with practical engineering.
-
-> My goal is to become an excellent software engineer and contribute to impactful technology.
-
----
-
-## 🛠️ Technical Arsenal
-
-### Programming Languages
+<!--
+  ARKA BISAI — GitHub Profile README
+  Keep the assets/ folder beside this README.md in your profile repository.
+-->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts&theme=dark" />
+  <img src="./assets/github-profile.png" alt="Arka Bisai — developer profile" width="100%">
 </p>
-
-### Frontend & Mobile Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,androidstudio&theme=dark" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
 </p>
 
-### Backend & Databases
+---
+
+## About Me
+
+I'm **Arka Bisai**, a B.Tech Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**. I enjoy building practical software, exploring AI, and turning ideas into useful digital experiences.
+
+- 🎓 B.Tech CSE (AI & ML) — Centurion University of Technology and Management
+- 📍 Paschim Medinipur, West Bengal
+- 💻 Interests: Full-stack development, AI/ML, app development and cloud technologies
+- 🎬 Beyond code: Movies and web series
+
+## Featured Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| **VitalLink** | Rural healthcare monitoring and management platform with offline-first workflows. | [Add repository URL](#) |
+| **LabelLens** | AI-assisted packaged-commodity label analysis with deterministic Legal Metrology compliance checks. | [Add repository URL](#) |
+| **XPUS** | Campus super app for students, faculty and administrators. | [Add repository URL](#) |
+| **NEXUS** | A customizable Chrome new-tab experience with a premium F1-inspired design. | [Add repository URL](#) |
+
+## Technology Stack
+
+**Languages:** Python · Java · JavaScript · TypeScript
+
+**Frontend & Mobile:** React Native · Expo · HTML · CSS
+
+**Backend & Databases:** FastAPI · Node.js · Express · PostgreSQL · MySQL · SQLite
+
+**Tools & Cloud:** Git · GitHub · Firebase · AWS · VS Code
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/Connect%20With%20Me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn">
+  </a>
 </p>
-
-### Cloud, Development & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,aws&theme=dark" />
+  <sub>Let's collaborate, build and grow together.</sub>
 </p>
----
-
-## 💡 Featured Projects
-
-### 01. VitalLink — Intelligent Healthcare Monitoring Ecosystem
-
-**Focus:** AI-assisted healthcare monitoring and rural healthcare technology.
-
-A healthcare monitoring platform designed to support patients, healthcare workers, doctors, and healthcare administrators.
-
-- Offline-first architecture.
-- Wearable health monitoring integration roadmap.
-- Vital tracking and doorstep screening workflows.
-- Role-based application architecture.
-- Clinical safety guardrails and non-diagnostic advisory logic.
-
-**Tech Stack:** React Native, TypeScript, Expo, Python.
-
-Currently in under development.
----
-
-### 02. LabelLens — Smart Legal Metrology Compliance Platform
-
-**Focus:** AI-powered product label analysis and regulatory compliance.
-
-An intelligent application designed to analyze packaged commodity labels and help identify potential violations under the Legal Metrology Rules, 2011.
-
-- Multimodal AI-based label information extraction.
-- Deterministic compliance rule engine.
-- Product barcode and GTIN verification.
-- Compliance scoring and violation explanations.
-- Evidence generation and reporting.
-
-**Tech Stack:** React Native, TypeScript, Node.js, Express, PostgreSQL, Google Gemini.
-
-[View Repository](https://github.com/YOUR_USERNAME/LabelLens)
-
----
-
-### 03. XPUS — Campus Super App
-
-**Focus:** Smart campus management and digital transformation.
-
-A unified campus application designed to connect students, faculty, and administrators.
-
-- Role-based access and workspaces.
-- Campus information and management workflows.
-- Centralized application experience.
-- Modern mobile-first interface.
-
-**Tech Stack:** React Native, TypeScript, Python, FastAPI, PostgreSQL.
-
-Currently in under development.
----
-
-### 04. NEXUS — Next-Generation Chrome Experience
-
-**Focus:** Browser customization and productivity.
-
-A Chrome extension concept featuring a futuristic interface.
-
-- Dynamic wallpapers.
-- Customizable widgets.
-- Liquid-glass-inspired interface.
-- Productivity-focused new-tab experience.
-
-**Tech Stack:** JavaScript, HTML, CSS, Chrome Extension Manifest V3.
-
-Currently in under development.
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arkabisai&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=arkabisai&theme=transparent&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkabisai&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/arkabisai/arkabisai/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
-</div>
----
-
-## 🎯 Current Focus
-
-- Exploring advanced AI and Machine Learning concepts.
-- Improving software engineering fundamentals.
-- Developing production-oriented applications.
-- Learning cloud architecture and deployment.
-- Practicing Data Structures and Algorithms.
-- Building a stronger open-source presence.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-Let's connect, collaborate, and build something impactful!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arkabisai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/arka-bisai)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ckrarkabisai@gmail.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkabisai007@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Think. Build. Innovate. Repeat.
-
-**Thanks for visiting my profile!**
-
-<img src="https://komarev.com/ghpvc/?username=arkabisai&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
-
-</div>
